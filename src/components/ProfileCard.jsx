@@ -14,7 +14,8 @@ export default function ProfileCard() {
         Github
         </a>
         <a 
-          href="https://www.linkedin.com/in/andrei-alves-26175338b/" 
+          href="https://www.linkedin.com/in/andrei-l-alves-26175338b/"
+           
           target="_blank">
         Linkedin
         </a>
